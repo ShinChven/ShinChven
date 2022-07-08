@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack TypeScript web developer.
+I am a full stack TypeScript/JavaScript web developer.
 
 ---
 
