@@ -9,11 +9,11 @@ Below are the open source frameworks and tools I love:
 ## Stats
 
 <a href="https://github.com/ShinChven/">
-    <img width="600" src="https://github-readme-stats.vercel.app/api?username=ShinChven&show_icons=true&theme=jolly" alt="Github Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ShinChven&show_icons=true&theme=jolly" alt="Github Stats" />
 </a>
 <br/>
 <a href="https://github.com/ShinChven/">
-    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChven&theme=shades-of-purple&layout=compact&exclude_repo=missing-semester-cn.github.io,pdfjs-viewer,rss-parser,knex,ant-design-pro-ifanrx-react-ueditor-xiumi-upload,ant-design-pro-ueditor-xiumi,dwv" alt="Top Languages" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChven&theme=shades-of-purple&layout=compact&exclude_repo=missing-semester-cn.github.io,pdfjs-viewer,rss-parser,knex,ant-design-pro-ifanrx-react-ueditor-xiumi-upload,ant-design-pro-ueditor-xiumi,dwv" alt="Top Languages" />
 </a>
 
 ## Extra Pins
