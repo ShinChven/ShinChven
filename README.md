@@ -8,17 +8,14 @@ Below are the open source frameworks and tools I love:
 
 ---
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShinChven&show_icons=true&count_private=true" alt="Github Stats" />
-  </a>
+<a href="https://github.com/ShinChven/">
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=ShinChven&show_icons=true&theme=dark&count_private=true" alt="Github Stats" />
+</a>
+<br/>
+<a href="https://github.com/ShinChven/">
+    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChven&theme=dark&layout=compact" alt="Top Languages" />
+</a>
 
-</p>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChven&layout=compact" alt="Top Languages" />
-  </a>
-</p>
 
 <!--
 **ShinChven/ShinChven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
