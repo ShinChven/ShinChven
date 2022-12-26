@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a full stack TypeScript/JavaScript web developer also build mobile apps.
+I am a full stack TypeScript/JavaScript web developer, and I also build mobile apps.
 
 Below are the open source frameworks and tools I love:
 
