@@ -16,8 +16,13 @@ I am a full-stack TypeScript/JavaScript web developer, and I also build mobile a
 
 ## Extra Pins
 
-[![orm-modeling](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=orm-modeling&theme=jolly)](https://github.com/ShinChven/orm-modeling)[![git-gpt](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=git-gpt&theme=jolly)](https://github.com/ShinChven/git-gpt)[![druid](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=druid&theme=jolly)](https://github.com/ShinChven/druid)[![web2pdf](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=web2pdf&theme=jolly)](https://github.com/ShinChven/web2pdf)
+[![orm-modeling](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=orm-modeling&theme=jolly)](https://github.com/ShinChven/orm-modeling)
 
+[![git-gpt](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=git-gpt&theme=jolly)](https://github.com/ShinChven/git-gpt)
+
+[![druid](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=druid&theme=jolly)](https://github.com/ShinChven/druid)
+
+[![web2pdf](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=web2pdf&theme=jolly)](https://github.com/ShinChven/web2pdf)
 
 
 <!--
