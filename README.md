@@ -2,7 +2,7 @@
 
 I am a full-stack TypeScript/JavaScript web developer, and I also build mobile apps. Below are the open-source frameworks and tools I love:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,react,html,css,vite,redux,webpack,gulp,materialui,bootstrap,electron,svg,dotnet,java,kotlin,hibernate,spring,gradle,maven,swift,dart,flutter,bash,python,flask,mysql,sqlite,redis,sequelize,md,git,gitlab,docker,linux,nginx,gcp,aws,azure,cloudflare,idea,vscode,androidstudio,vim,neovim,postman,firebase,github,stackoverflow,twitter,instagram,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,react,html,css,vite,redux,webpack,gulp,materialui,bootstrap,electron,svg,dotnet,java,kotlin,hibernate,spring,gradle,maven,swift,dart,flutter,bash,python,golang,flask,mysql,sqlite,redis,sequelize,md,git,gitlab,docker,linux,nginx,gcp,aws,azure,cloudflare,idea,vscode,androidstudio,vim,neovim,postman,firebase,github,stackoverflow,twitter,instagram,discord)](https://skillicons.dev)
 
 ## Stats
 
