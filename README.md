@@ -6,13 +6,9 @@ I am a full-stack TypeScript/JavaScript web developer, and I also build mobile a
 
 ## Stats
 
-<a href="https://github.com/ShinChven/">
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinChven&theme=dracula" alt="Github Stats" />
-</a>
+[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinChven&theme=dracula)](https://github.com/ShinChven/)
 <br/>
-<a href="https://github.com/ShinChven/">
-    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinChven&theme=dracula" alt="Top Languages" />
-</a>
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinChven&theme=dracula)](https://github.com/ShinChven/)
 
 ## Extra Pins
 
