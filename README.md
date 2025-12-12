@@ -12,17 +12,24 @@ I am a full-stack TypeScript/JavaScript web developer, and I also build mobile a
 
 ## Extra Pins
 
-[![git-gpt](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/git-gpt&theme=jolly)](https://github.com/ShinChven/git-gpt)
-
-[![orm-modeling](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/doc-gpt&theme=jolly)](https://github.com/ShinChven/doc-gpt)
-
-[![orm-modeling](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/orm-modeling&theme=jolly)](https://github.com/ShinChven/orm-modeling)
-
-[![druid](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/druid&theme=jolly)](https://github.com/ShinChven/druid)
-
-[![web2pdf](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/web2pdf&theme=jolly)](https://github.com/ShinChven/web2pdf)
-
-[![mysqldump-wrapper](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/mysqldump-wrapper&theme=jolly)](https://github.com/ShinChven/mysqldump-wrapper)
+<a href="https://github.com/ShinChven/git-gpt">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/git-gpt" alt="git-gpt" />
+</a>
+<a href="https://github.com/ShinChven/doc-gpt">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/doc-gpt" alt="doc-gpt" />
+</a>
+<a href="https://github.com/ShinChven/orm-modeling">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/orm-modeling" alt="orm-modeling" />
+</a>
+<a href="https://github.com/ShinChven/druid">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/druid" alt="druid" />
+</a>
+<a href="https://github.com/ShinChven/web2pdf">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/web2pdf" alt="web2pdf" />
+</a>
+<a href="https://github.com/ShinChven/mysqldump-wrapper">
+  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/mysqldump-wrapper" alt="mysqldump-wrapper" />
+</a>
 
 
 
