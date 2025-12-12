@@ -7,26 +7,26 @@ I am a full-stack TypeScript/JavaScript web developer, and I also build mobile a
 ## Stats
 
 <a href="https://github.com/ShinChven/">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ShinChven&show_icons=true&theme=jolly" alt="Github Stats" />
+    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinChven&theme=dracula" alt="Github Stats" />
 </a>
 <br/>
 <a href="https://github.com/ShinChven/">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChven&theme=shades-of-purple&layout=compact&exclude_repo=missing-semester-cn.github.io,pdfjs-viewer,rss-parser,knex,ant-design-pro-ifanrx-react-ueditor-xiumi-upload,ant-design-pro-ueditor-xiumi,dwv" alt="Top Languages" />
+    <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinChven&theme=dracula" alt="Top Languages" />
 </a>
 
 ## Extra Pins
 
-[![git-gpt](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=git-gpt&theme=jolly)](https://github.com/ShinChven/git-gpt)
+[![git-gpt](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/git-gpt&theme=jolly)](https://github.com/ShinChven/git-gpt)
 
-[![orm-modeling](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=doc-gpt&theme=jolly)](https://github.com/ShinChven/doc-gpt)
+[![orm-modeling](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/doc-gpt&theme=jolly)](https://github.com/ShinChven/doc-gpt)
 
-[![orm-modeling](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=orm-modeling&theme=jolly)](https://github.com/ShinChven/orm-modeling)
+[![orm-modeling](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/orm-modeling&theme=jolly)](https://github.com/ShinChven/orm-modeling)
 
-[![druid](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=druid&theme=jolly)](https://github.com/ShinChven/druid)
+[![druid](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/druid&theme=jolly)](https://github.com/ShinChven/druid)
 
-[![web2pdf](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=web2pdf&theme=jolly)](https://github.com/ShinChven/web2pdf)
+[![web2pdf](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/web2pdf&theme=jolly)](https://github.com/ShinChven/web2pdf)
 
-[![mysqldump-wrapper](https://github-readme-stats.vercel.app/api/pin/?username=ShinChven&repo=mysqldump-wrapper&theme=jolly)](https://github.com/ShinChven/mysqldump-wrapper)
+[![mysqldump-wrapper](https://github-readme-repo-card.vercel.app/api?fullname=ShinChven/mysqldump-wrapper&theme=jolly)](https://github.com/ShinChven/mysqldump-wrapper)
 
 
 
