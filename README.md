@@ -10,27 +10,6 @@ I am a full-stack TypeScript/JavaScript web developer, and I also build mobile a
 <br/>
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinChven&theme=dracula)](https://github.com/ShinChven/)
 
-## Current Projects
-
-<a href="https://github.com/ShinChven/comfydl">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/comfydl" alt="comfydl" />
-</a>
-<a href="https://github.com/ShinChven/git-gpt">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/git-gpt" alt="git-gpt" />
-</a>
-<a href="https://github.com/ShinChven/doc-gpt">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/doc-gpt" alt="doc-gpt" />
-</a>
-<a href="https://github.com/ShinChven/orm-modeling">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/orm-modeling" alt="orm-modeling" />
-</a>
-<a href="https://github.com/ShinChven/web2pdf">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/web2pdf" alt="web2pdf" />
-</a>
-<a href="https://github.com/ShinChven/mysqldump-wrapper">
-  <img width="48%" src="https://opengraph.githubassets.com/1/ShinChven/mysqldump-wrapper" alt="mysqldump-wrapper" />
-</a>
-
 
 
 
