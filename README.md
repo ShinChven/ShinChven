@@ -12,7 +12,7 @@ Full-stack engineer based in New Zealand. I build product-focused software acros
 
 ### [remix-studio](https://github.com/ShinChven/remix-studio)
 
-Self-hosted workspace for AI image generation projects. It combines a React frontend, Hono server, PostgreSQL via Prisma, and S3-compatible storage for managing prompts, assets, jobs, and exports.
+Self-hosted workspace for AI image/video/text generation projects. It combines a React frontend, Hono server, PostgreSQL via Prisma, and S3-compatible storage for managing prompts, assets, jobs, and exports.
 
 ### [pilot-banana-azure](https://github.com/ShinChven/pilot-banana-azure)
 
